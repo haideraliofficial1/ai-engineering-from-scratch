@@ -57,3 +57,11 @@ mlruns/
 .link-cache.json
 .claude/
 .env
+*.bin
+*.safetensors
+*.pt
+*.onnx
+data/*.parquet
+data/*.csv
+models/
+imdb_train.*
